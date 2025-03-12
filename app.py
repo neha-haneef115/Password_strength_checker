@@ -28,6 +28,9 @@ st.markdown(
         box-shadow: 0px 4px 4px -1px rgba(0, 0, 0, 0.25);
    
     }
+    h1 {
+    color: white !important;
+}
     h1#password-strength-checker {
     text-color:white !important;
 }
