@@ -17,7 +17,7 @@ st.markdown(
         flex-direction: column;
         justify-content: center;
         width: 800px;
-        height: 500px;
+        height: 530px;
         margin-top: 18px;
         position: absolute;
           left: 50%; 
@@ -44,6 +44,7 @@ st.markdown(
         font-weight: bold;
         color: white !important;
         text-align: left;
+        padding-top:0px;
     }
 
     .st-emotion-cache-1104ytp p {
