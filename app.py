@@ -30,6 +30,7 @@ st.markdown(
     }
     h1#password-strength-checker {
     margin-top: 50px;
+    text-color:white;
 }
 
     input[type="password"]::-ms-reveal,
