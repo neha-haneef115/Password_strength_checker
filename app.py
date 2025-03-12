@@ -17,7 +17,7 @@ st.markdown(
         flex-direction: column;
         justify-content: center;
         width: 800px;
-        height: 530px;
+        height: 510px;
         margin-top: 18px;
         position: absolute;
           left: 50%; 
