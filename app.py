@@ -105,6 +105,9 @@ st.markdown(
         font-size: 16px !important;
         padding: 8px;
     }
+    .st-bc {
+    color: rgb(49, 51, 63) !important;
+}
     .st-emotion-cache-1104ytp p {
         font-size: 16px !important;
         text-align: center;
