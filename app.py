@@ -92,15 +92,15 @@ st.markdown(
     .content-box {
         width: 90%;
         min-height: auto;
-        padding: 15px;
+        padding: 20px;
     }
     h1 {
-        font-size: 24px !important;
+        font-size: 22px !important;
         text-align: center;
     }
     .stButton>button {
-        font-size: 18px !important;
-        padding: 10px;
+        font-size: 16px !important;
+        padding: 8px;
     }
     .st-emotion-cache-1104ytp p {
         font-size: 16px !important;
