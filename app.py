@@ -20,7 +20,7 @@ st.markdown(
         height: 660px;
         margin-top: 18px;
         position: absolute;
-          left: 50%; 
+          left: 120%; 
     transform: translateX(-50%);
         border-radius: 14px;
         border: 1px solid #f9f9f9;
