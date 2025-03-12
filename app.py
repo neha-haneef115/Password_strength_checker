@@ -29,8 +29,8 @@ st.markdown(
    
     }
     h1#password-strength-checker {
-    margin-top: 50px;
-    text-color:white;
+    margin-top: 20px;
+    text-color:white !important;
 }
 
     input[type="password"]::-ms-reveal,
