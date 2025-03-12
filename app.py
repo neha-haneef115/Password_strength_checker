@@ -17,7 +17,7 @@ st.markdown(
         flex-direction: column;
         justify-content: center;
         width: 800px;
-        height: 660px;
+        height: 500px;
         margin-top: 18px;
         position: absolute;
           left: 50%; 
@@ -41,14 +41,14 @@ st.markdown(
 
 
      .st-emotion-cache-18netey h1 {
-        font-size: 42px;
+        font-size: 30px;
         font-weight: bold;
         color: white;
         text-align: left;
     }
 
     .st-emotion-cache-1104ytp p {
-        font-size: 22px !important;
+        font-size: 18px !important;
         color: white !important;
         text-align: left;
     }
@@ -65,16 +65,16 @@ st.markdown(
         transition: transform 0.4s ease-in-out;
     }
     .st-ba {
-    height: 3.5rem;
+    height: 2.5rem;
 }
 .st-bt {
-    padding-left: 1.2rem;
+    padding-left: 0.8rem;
 }
     .st-emotion-cache-1hyd1ho p {
-     font-size: 22px !important;
+     font-size: 18px !important;
     }
     .st-ay {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
 }
     
     .stButton>button:hover, 
