@@ -20,7 +20,7 @@ st.markdown(
         height: 660px;
         margin-top: 18px;
         position: absolute;
-          left: 120%; 
+          left: 50%; 
     transform: translateX(-50%);
         border-radius: 14px;
         border: 1px solid #f9f9f9;
@@ -55,9 +55,9 @@ st.markdown(
     .stButton>button {
         background-color: #A4B465;
         color: white;
-        font-size: 56px !important;
+        font-size: 22px !important;
         border-radius: 5px;
-        padding: 13px;
+        padding: 10px;
         width: 100%;
         border: none;
         margin-top:10px;
