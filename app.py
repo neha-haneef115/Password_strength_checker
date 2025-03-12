@@ -94,6 +94,9 @@ st.markdown(
         min-height: auto;
         padding: 10px;
     }
+    .st-b7 {
+    background-color: rgb(240, 242, 246);
+}
     h1 {
         font-size: 22px !important;
         text-align: center;
