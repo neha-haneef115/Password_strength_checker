@@ -105,6 +105,9 @@ st.markdown(
         font-size: 16px !important;
         padding: 8px;
     }
+    .st-ay {
+    font-size: 0.8rem;
+}
     .st-bc {
     color: rgb(49, 51, 63) !important;
 }
