@@ -92,7 +92,7 @@ st.markdown(
     .content-box {
         width: 110%;
         min-height: auto;
-        padding: 15px;
+        padding: 10px;
     }
     h1 {
         font-size: 22px !important;
