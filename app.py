@@ -88,6 +88,24 @@ st.markdown(
         color: white !important;
         transform: scale(1.03);
     }
+    @media (max-width: 768px) {
+    .content-box {
+        width: 90%;
+        min-height: auto;
+        padding: 15px;
+    }
+    h1 {
+        font-size: 24px !important;
+        text-align: center;
+    }
+    .stButton>button {
+        font-size: 18px !important;
+        padding: 10px;
+    }
+    .st-emotion-cache-1104ytp p {
+        font-size: 16px !important;
+        text-align: center;
+    }
     </style>
     """,
     unsafe_allow_html=True
