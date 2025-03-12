@@ -29,7 +29,6 @@ st.markdown(
    
     }
     h1#password-strength-checker {
-    margin-top: 20px;
     text-color:white !important;
 }
 
@@ -43,7 +42,7 @@ st.markdown(
      .st-emotion-cache-18netey h1 {
         font-size: 30px;
         font-weight: bold;
-        color: white;
+        color: white !important;
         text-align: left;
     }
 
@@ -58,7 +57,7 @@ st.markdown(
         color: white;
         font-size: 22px !important;
         border-radius: 5px;
-        padding: 10px;
+        padding: 7px;
         width: 100%;
         border: none;
         margin-top:10px;
