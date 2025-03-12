@@ -90,7 +90,7 @@ st.markdown(
     }
     @media (max-width: 768px) {
     .content-box {
-        width: 100%;
+        width: 120%;
         min-height: auto;
         padding: 15px;
     }
